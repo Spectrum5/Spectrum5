@@ -25,15 +25,7 @@
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 </div>
-<div align=center>
-<h2>Contacts</h2>
-  
-  <a href="mailto:toskusergio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      <font-awesome-icon icon="fa-regular fa-envelope" />
-  </a>
-  
-</div>
+
 <div align="center" >
 <h2>My GitHub Stats</h2>
 
