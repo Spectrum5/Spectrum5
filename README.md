@@ -1,3 +1,5 @@
+![](https://github.com/Spectrum5/Spectrum5/raw/output/dist/github-snake.svg)
+
 <div align=center>
   <h2>My skills</h2>
   
