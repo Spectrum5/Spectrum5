@@ -1,4 +1,3 @@
-![](https://github.com/Spectrum5/Spectrum5/raw/output/dist/github-snake.svg)
 
 <div align=center>
   <h2>My skills</h2>
@@ -42,6 +41,6 @@
 </div>
   
   <br><br>
-[![Linkedin: francescopieraccini](https://img.shields.io/badge/-Sergiotosku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiotosku)](https://www.linkedin.com/in/sergio-tosku-3b7562181/)
+[![Linkedin: SergioTosku](https://img.shields.io/badge/-Sergiotosku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiotosku)](https://www.linkedin.com/in/sergio-tosku-3b7562181/)
 [![GitHub followers](https://img.shields.io/github/followers/Spectrum5?label=Follow&style=social)](https://github.com/Spectrum5)
 ![VIEWS](https://komarev.com/ghpvc/?username=Spectrum5)
