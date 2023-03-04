@@ -1,4 +1,3 @@
-
 <div align=center>
 
 ![snake gif](https://github.com/Spectrum5/snake/blob/output/dist/github-snake-dark.svg)
