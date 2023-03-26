@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/Spectrum5/snake/blob/output/dist/github-snake-dark.svg)
   
- <h2>My skills</h2>
+<h2>My skills</h2>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,6 +34,7 @@
 [![Spectrum5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spectrum5&show_icons=true&theme=dark&hide=contribs)]([https://github.com/Spectrum5/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Spectrum5&show_icons=true&theme=dark&hide=contribs)) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrum5&layout=compact&theme=dark)]([https://github.com/Spectrum5/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrum5&layout=compact&theme=dark))
 </div>
+
   
 <div align=center>
   <h2>Trophies</h2>
