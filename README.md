@@ -1,6 +1,6 @@
 <div align=center>
   
-  <h1>I am Sergio, JR. Full Stack Web Developer.</h1>
+  <h1>I am Sergio, Full Stack Web Developer.</h1>
 
 ![snake gif](https://github.com/Spectrum5/snake/blob/output/dist/github-snake-dark.svg)
   
